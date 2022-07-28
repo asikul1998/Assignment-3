@@ -1,6 +1,9 @@
-/* .slide-child {
-    position: absolute!important;
-    top: 50%;
-    left: 30%;
-    color: white;
-} */
+.border-custom{
+    border:solid 1px rgb(201, 196, 196);!important
+    gap: 0.5rem;!important
+}
+.ready-custom{
+    border-radius: 5px;
+    background-image:linear-gradient(rgba(218, 193, 197, 0.909)   rgba(225, 190, 231, 0.418) 
+    rgba(192, 192, 194, 0.865) );!important
+}
